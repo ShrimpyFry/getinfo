@@ -3,12 +3,14 @@
     "id": 1,
     "name": "Santa Teresa Badminton CCS Finalists",
     "editor": "William Cung",
-    "author": "Mr. Alfano, Mr. Rocha"
+    "author": "Mr. Alfano, Mr. Rocha",
+    "link": "./pages/williamcung.php"
   },
   {
     "id": 2,
     "name": "STHS Marching Band and Color Guard",
     "editor": "Micah Lai, Sara Nakatsu",
-    "author": "Micah Lai, Sara Nakatsu"
+    "author": "Micah Lai, Sara Nakatsu",
+    "link": "./pages/laimicah.php"
   }
 ]
