@@ -4,13 +4,41 @@
     "name": "Santa Teresa Badminton CCS Finalists",
     "editor": "William Cung",
     "author": "Mr. Alfano, Mr. Rocha",
-    "link": "./pages/williamcung.php"
+    "link": "./pages/williamcung-santa-teresa-badminton-ccs-finalists.php"
   },
   {
     "id": 2,
     "name": "STHS Marching Band and Color Guard",
     "editor": "Micah Lai, Sara Nakatsu",
     "author": "Micah Lai, Sara Nakatsu",
-    "link": "./pages/laimicah.php"
-  }
+    "link": "./pages/laimicahnakatsusara-marchingband-and-color-guard.php"
+  },
+  {
+    "id": 3,
+    "name": "VSA - Vietnamese Student Association",
+    "editor": "Katherine Bui, Jenny Pham",
+    "author": "Katherine Bui, Jenny Pham",
+    "link": "./pages/buingochoangthu-vietnamese-student-association.php"
+  },
+  {
+    "id": 4,
+    "name": "VSA - Dragon Dancing",
+    "editor": "Katherine Bui, Jenny Pham",
+    "author": "Katherine Bui, Jenny Pham",
+    "link": "./pages/buingochoangthu-vsa-dragon-racing.php"
+  },
+  {
+    "id": 5,
+    "name": "MESA - Coding Solutions",
+    "editor": "Carole Ng",
+    "author": "Max Cheng",
+    "link": "./pages/chengmax-coding-solutions.php"
+  },
+  {
+    "id": 6,
+    "name": "Social Innovation Challenge",
+    "editor": "Marcus Dinh",
+    "author": "Marcus Dinh",
+    "link": "./pages/cdinhmarcuskhoa-socialinnovationchallenge.php"
+  },
 ]
