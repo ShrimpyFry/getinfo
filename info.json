@@ -40,5 +40,26 @@
     "editor": "Marcus Dinh",
     "author": "Marcus Dinh",
     "link": "./pages/dinhmarcuskhoa-socialinnovationchallenge.php"
-  }
+  },
+  {
+    "id": 7,
+    "name": "STHS Chess Players",
+    "editor": "Aiden Miu",
+    "author": "Angelo Ramos",
+    "link": "./pages/aiden-mui-chess-players-sths.php"
+  },
+  {
+    "id": 8,
+    "name": "MESA Cargo Glider",
+    "editor": "Ezekiel Smits, Renzo Rodriguez",
+    "author": "Ethan Tran",
+    "link": "./pages/ethan-tran-cargo-glider.php"
+  },
+  {
+    "id": 9,
+    "name": "Jeremy's Amazon Scholarship",
+    "editor": "Ian Lee",
+    "author": "Ian Lee",
+    "link": "./pages/ian-lee-jeremy-scholarship.php"
+  },
 ]
