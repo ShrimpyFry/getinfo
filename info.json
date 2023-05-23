@@ -61,5 +61,61 @@
     "editor": "Ian Lee",
     "author": "Ian Lee",
     "link": "./pages/ian-lee-jeremy-scholarship.php"
+  },
+  {
+    "id": 10,
+    "name": "MUN - PacMun",
+    "editor": "Bryan Phipps",
+    "author": "Jeet Lad",
+    "link": "./pages/jeet-lad-model-un-pacmun.php"
+  },
+  {
+    "id": 11,
+    "name": "MESA - Math Escape",
+    "editor": "Linus Lin",
+    "author": "Linus Lin",
+    "link": "./pages/linus-lin-mesa-math-escape.php"
+  },
+  {
+    "id": 12,
+    "name": "MESA - Crime Scene Science",
+    "editor": "Manuel Manu",
+    "author": "Manuel Manu",
+    "link": "./pages/manuel-manu-mesa-crime-scene-science.php"
+  },
+  {
+    "id": 13,
+    "name": "STHS - Baseball",
+    "editor": "Mason Hawk",
+    "author": "Mason Hawk",
+    "link": "./pages/mason-hawk-baseball.php"
+  },
+  {
+    "id": 14,
+    "name": "MESA - College Poster Board",
+    "editor": "Monica Pinyen Kuo",
+    "author": "Monica Pinyen Kuo",
+    "link": "./pages/monica-pinyen-kuo-college-poster-board.php"
+  }
+  {
+    "id": 15,
+    "name": "STHS - Track Regionals",
+    "editor": "Nikhil Patel",
+    "author": "Nikhil Patel",
+    "link": "./pagesnikhil-patel-sths-track-regionals.php"
+  },
+  {
+    "id": 16,
+    "name": "MESA - Civil Structures",
+    "editor": "Teiji Futamase,
+    "author": "Teiji Futamase",
+    "link": "./pages/teiji-futamase-civil-structures.php"
+  },
+  {
+    "id": 17,
+    "name": "VSA Cultural Show",
+    "editor": "Tevin Tran",
+    "author": "Tevin Tran, Michael Trang",
+    "link": "./pages/tevin-tran-vsa-cultural-show.php"
   }
 ]
